@@ -4,7 +4,7 @@ Un'applicazione mobile per scoprire ricette deliziose e imparare a prepararle fa
 
 
 
-![Interfaccia principale dell'app]("./assets/github.jpg")
+![Interfaccia principale dell'app]("./src/assets/github.jpg")
 
 ## 📋 Descrizione
 
