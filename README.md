@@ -2,9 +2,9 @@
 
 Un'applicazione mobile per scoprire ricette deliziose e imparare a prepararle facilmente, con istruzioni dettagliate e video dimostrativi.
 
----
 
-![Interfaccia principale dell'app]("assets/github.jpg")
+
+![Interfaccia principale dell'app]("./assets/github.jpg")
 
 ## 📋 Descrizione
 
